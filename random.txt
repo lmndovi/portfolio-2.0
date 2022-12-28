@@ -1,0 +1,6 @@
+shades image = "https://drive.google.com/uc?export=download&id=1K6Lg2KEjNuR5OQG7p51-Y_bLqHg1Jkt-"
+shade image 2 = "https://drive.google.com/uc?export=download&id=1Wu2VFrVDmW9ZycSIntlo9dxWiaAEWCFD"
+football image = "https://drive.google.com/uc?export=download&id=16hrTZ46RlsBSeG-loxrExYNrnZbh8d_Q"
+straighton image = "https://drive.google.com/uc?export=download&id=1aJHe09hpclhaJclPxQ62oXmT0P7hkJw5"
+sideon image ="https://drive.google.com/uc?export=download&id=1jXVndixNaVr2qu_fQMXDr_2SpAwxBecr"
+mum image = "https://drive.google.com/uc?export=download&id=1o4I5uFwDmxBMEfjAAPVhODd2ffX0FI3K"
